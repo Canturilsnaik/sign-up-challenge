@@ -1,0 +1,34 @@
+@media (min-width: 1440px) {
+  body{
+    background-image: url(../images/bg-intro-desktop.png);
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .conteiner, .box, .form {
+    width: 400px;
+    margin-right: 5vw;
+  }
+
+  .title {
+    width: 30vw;
+    margin: 15vw auto;
+    text-align: start;
+  }
+
+  .title h1 {
+    font-size: 40px;
+  }
+
+  .title p {
+    font-size: 14px;
+  }
+
+  .attribution {
+    display: block;
+    position: absolute; 
+    bottom: 0;
+  }
+}
