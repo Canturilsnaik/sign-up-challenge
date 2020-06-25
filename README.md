@@ -1,6 +1,6 @@
 # Sign-up Challenge
 
-I have very trouble in validate form with Javascript but I got it
+I had very trouble in validate form with Javascript but I got it
 
 I made deploy in Vercel app.
 - Link: https://sign-up-challenge.vercel.app/
